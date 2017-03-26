@@ -19,7 +19,7 @@ queries = ['how to handle a 1.5 year old when hitting',
 'Where are you going? Aap kahan ja rahe ho?',
 'Where are we going? Hum kahan ja rahe hain?',
 'How is your family? Aapka parivaar kaisa hai?''
-'Nice to meet you Aapse mil kar khushi hu]''
+'Nice to meet you Aapse mil kar khushi hu']
 
 # train the model
 
