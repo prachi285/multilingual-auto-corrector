@@ -13,12 +13,12 @@ queries = ['how to handle a 1.5 year old when hitting',
 'I am Fine Main theek Hoon',
 'Well meet again',
  'See you latter Phir Milenge',
-'What’s your name? Aap ka naam kya hai',
-'My Name is <name> Mera Naam <name> Hai',
-'I am Going Main Ja Raha Hoon, Main Ja Rahi Hoon',
-'Where are you going? Aap kahan ja rahe ho?',
-'Where are we going? Hum kahan ja rahe hain?',
-'How is your family? Aapka parivaar kaisa hai?''
+'Whats your name Aap ka naam kya hai',
+'My Name is Mera Naam Hai',
+'I am Going Main Ja Raha Hoon Main Ja Rahi Hoon',
+'Where are you going Aap kahan ja rahe ho',
+'Where are we going Hum kahan ja rahe hain',
+'How is your family Aapka parivaar kaisa hai''
 'Nice to meet you Aapse mil kar khushi hu']
 
 # train the model
