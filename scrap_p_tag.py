@@ -16,3 +16,5 @@ with open('urls.txt') as links:
 			for sentence in lines:
 				if(len(sentence)>20):
 					print sentence.strip()
+f.close()
+links.close()
