@@ -3,7 +3,7 @@ import sys
 import StringIO
 
 # queries to train the model
-queries = []
+queries = ['aap kaise hain', 'hum badhiya hain']
 
 # load English data set to training model
 with open('english_clean.txt') as engf:
